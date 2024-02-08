@@ -17,3 +17,4 @@
 1º Install Node.js on your machine: Preferably the LTS version =)
 
 2º Choose an IDE - Visual Studio Code or any other that you prefer.
+
